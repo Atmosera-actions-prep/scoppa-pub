@@ -2,7 +2,7 @@
   "your": "json config here",
   "name": "scoppa-pub",
   "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Warning: no test specified\" && exit 0"
