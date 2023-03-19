@@ -1,3 +1,20 @@
 {
-  "your": "json config here"
+  "your": "json config here",
+  "name": "scoppa-pub",
+  "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
+  "version": "4.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atmosera-actions-prep/scoppa-pub.git"
+  },
+  "author": "andrew scoppa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atmosera-actions-prep/scoppa-pub/issues"
+  },
+  "homepage": "https://github.com/Atmosera-actions-prep/scoppa-pub#readme"
 }
